@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+
+
+h1 {
+    color: #66BFBF;
+    font-family: 'Rock Salt', cursive;
+    font-size: 5.625rem;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    margin: 0 auto;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.no {
+    text-decoration: underline;
+}
+
+.topCloud {
+    position: absolute;
+    right: 600px;
+    top: 50px
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 600px;
+    bottom: 300px;
+}
+
+.topContainer {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px 400px 0 400px;
+}
+
+.topContainer > h2 {
+    font-weight: normal;
+    line-height: 2;
+}
+
+.middleContainer {
+
+}
+
+.profile {
+    padding-top: 1rem;
+    line-height: 2;
+}
+
+.profilePic {
+    width: 15%;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+
+
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row > img {
+    width: 25%;
+}
+
+.code-img {
+    float: left;
+    margin-right: 50px;
+}
+
+.eng-img {
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.contact-me {
+    margin-bottom: 100px;
+    line-height: 3;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px;
+    line-height: 3;
+}
+
+.bottom-container > p {
+    color: #EAF6F6;
+    margin-bottom: 0;
+}
+
+.footer-link {
+    color: #11999E;
+    margin: 0 50px;
+
+}
+
+hr {
+    clear: both;
+    width: 20%;
+    margin: 75px auto;
+    border: none;
+    border-top: dotted grey;
+    border-width: 0.5rem;
+}
